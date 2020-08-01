@@ -174,21 +174,21 @@ h4.agile-title,h1.agile-title,h2.agile-title {
 }
 
 .csslider>ul>li:first-child {
-    background: url(../images/banner1.jpg) no-repeat center;
+    background: url(https://rawcdn.githack.com/construcivil-company/NEGOCIOS-TEMPLATE/f96ba6a51069917f9a0d2aad37ad667b36d5326f/banner1.jpg) no-repeat center;
     background-size: cover;
 }
 
 .csslider>ul>li:nth-child(2) {
-    background: url(../images/banner2.jpg) no-repeat center;
+    background: url(https://rawcdn.githack.com/construcivil-company/NEGOCIOS-TEMPLATE/f96ba6a51069917f9a0d2aad37ad667b36d5326f/banner3.jpg) no-repeat center;
     background-size: cover;
 }
 
 .csslider>ul>li:nth-child(3) {
-    background: url(../images/banner3.jpg) no-repeat center;
+    background: url(https://rawcdn.githack.com/construcivil-company/NEGOCIOS-TEMPLATE/f96ba6a51069917f9a0d2aad37ad667b36d5326f/banner2.jpg) no-repeat center;
     background-size: cover;
 }
 .csslider>ul>li:last-child {
-    background: url(../images/banner4.jpg) no-repeat center;
+    background: url(https://rawcdn.githack.com/construcivil-company/NEGOCIOS-TEMPLATE/f96ba6a51069917f9a0d2aad37ad667b36d5326f/banner4.jpg) no-repeat center;
     background-size: cover;
 }
 
